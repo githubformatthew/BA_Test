@@ -7,7 +7,7 @@
   },
   "servers": [
     {
-      "url": "https://engo651-arash-mozhdehi.herokuapp.com/",
+      "url": "http://engo651-arash-mozhdehi.herokuapp.com/",
       "description": "Bike Assistant"
     }
   ],
