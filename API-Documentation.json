@@ -8,7 +8,9 @@
   "servers": [
     {
       "url": "http://engo651-arash-mozhdehi.herokuapp.com/",
-      "description": "Bike Assistant"
+      "description": "Bike Assistant",
+      "url": "https://virtserver.swaggerhub.com/uofcengo/BikeAssistance/1.0.0",      
+      "description": "SwaggerHub API Auto Mocking"
     }
   ],
   "tags": [
